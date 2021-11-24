@@ -1,2 +1,6 @@
 con1237.txt
+<<<<<<< HEAD
 abc
+=======
+hoho3
+>>>>>>> 07e9c81ecce84fe104eb0b59af08a0f4d66a34cd
